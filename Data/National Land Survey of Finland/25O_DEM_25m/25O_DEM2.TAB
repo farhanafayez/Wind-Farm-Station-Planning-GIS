@@ -1,0 +1,15 @@
+!table
+!version 300
+!charset WindowsLatin1
+!Copyright National Land Survey of Finland
+!          Helsinki, 21.10.2002, for MapInfo 4.x
+
+Definition Table
+File "25o_dem2.tif"
+Type "Raster"
+(3339987.5,7200012.5) (0,0) Label "Pt 1",
+(3420012.5,7200012.5) (3200,0) Label "Pt 2",
+(3420012.5,7119987.5) (3200,3200) Label "Pt 3",
+(3339987.5,7119987.5) (0,3200) Label "Pt 4"
+CoordSys Earth Projection 24,28,"m",27,0,1,3500000,0
+Units "m"
