@@ -12,6 +12,8 @@ Things that were considered:
 - Wind conditions
 - Elevation and slope
 
+Additionally, archeological sites were also taken into consideration.
+
 Things that were  not considered:
 
 - Land ownership
