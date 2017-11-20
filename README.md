@@ -7,12 +7,12 @@ Things that were considered:
 - Distance to buildings (residential, commercial, industrial)
 - Viewshed of the turbines
 - Distance to roads and railroads
-- Any nearby airports
-- Nature protection and other special use areas
+- Nearby airports
+- Nature conservation and other protected areas
+- Parks and recreational areas
+- Archeological sites
 - Wind conditions
 - Elevation and slope
-
-Additionally, archeological sites were also taken into consideration.
 
 Things that were  not considered:
 
