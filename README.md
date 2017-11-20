@@ -1,18 +1,18 @@
 # Wind power park site planning and mapping
 
-In the project work, we were to find a place where to build a Wind Power Park. 
+In the project work, we were to find a site where to build a Wind Power Park. 
 
 Things that were considered:
 
 - Distance to buildings (residential, commercial, industrial)
-- Viewshed of the turbines
 - Distance to roads and railroads
 - Nearby airports
-- Nature conservation and other protected areas
-- Parks and recreational areas
+- Nature conservation areas
 - Archeological sites
-- Wind conditions
-- Elevation and slope
+- Parks and recreational areas
+- Wind conditions (energy production, wind direction)
+- Elevation and slope of terrain
+- Viewshed of the turbines
 
 Things that were  not considered:
 
