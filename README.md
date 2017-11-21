@@ -26,4 +26,4 @@ Things that were  not considered:
 - PaiTuli service (https://research.csc.fi/paituli)
 - National Land Survey (NLS) Topographic Dataset Metadata: http://www.maanmittauslaitos.fi/en/digituotteet/topographic-database 
 - Wind speed data from Tuuliatlas. http://tuuliatlas.fmi.fi/fi/
-- Soil and bedrock data http://www.gtk.fi/tietopalvelut/karttapalvelut/
+- Soil and bedrock data http://www.gtk.fi/tietopalvelut/karttapalvelut/ , https://hakku.gtk.fi/fi/locations/search
