@@ -1,6 +1,0 @@
-0 thru 3=5
-3 thru 5=4
-5 thru 7=3
-7 thru 8=2
-8 thru 9=1
-9 thru 100=0
