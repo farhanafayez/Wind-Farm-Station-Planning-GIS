@@ -7,14 +7,14 @@
         <BucketCount>6</BucketCount>
         <IncludeOutOfRange>0</IncludeOutOfRange>
         <Approximate>0</Approximate>
-        <HistCounts>2747|36851|8607|1219|1609|4544</HistCounts>
+        <HistCounts>2711|36857|8619|1201|1614|4528</HistCounts>
       </HistItem>
     </Histograms>
     <Metadata>
       <MDI key="STATISTICS_MAXIMUM">5</MDI>
-      <MDI key="STATISTICS_MEAN">1.5632006045666</MDI>
+      <MDI key="STATISTICS_MEAN">1.5630109850531</MDI>
       <MDI key="STATISTICS_MINIMUM">0</MDI>
-      <MDI key="STATISTICS_STDDEV">1.2423996252576</MDI>
+      <MDI key="STATISTICS_STDDEV">1.2408935320357</MDI>
     </Metadata>
   </PAMRasterBand>
 </PAMDataset>
