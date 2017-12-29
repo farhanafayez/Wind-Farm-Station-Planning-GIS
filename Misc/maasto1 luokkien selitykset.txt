@@ -1,0 +1,6 @@
+32800 Niitty
+34100 Kallio
+34700 Kivikko
+35300 Soistuma
+35411 Suo, helppokulkuinen puuton
+35412 Suo, helppokulkuinen mets‰‰ kasvava
